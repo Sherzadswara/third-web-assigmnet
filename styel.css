@@ -1,0 +1,24 @@
+.border {
+  border: 2px solid black;
+  height: 500px;
+  width: 100%;
+}
+.r{display:flex;
+flex-direction: row;
+}
+
+.ulist {
+padding-left: 50px;
+}
+.ph{
+    padding-left: 1100px; 
+}
+.t{
+    padding-left: 300px;
+}
+.table,td {
+ border: 2px solid black;
+ border-collapse: collapse;
+ text-align: left;
+ width: 100px;
+}
